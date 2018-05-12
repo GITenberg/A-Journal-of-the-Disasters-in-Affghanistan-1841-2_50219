@@ -1,10 +1,16 @@
 _repo: A-Journal-of-the-Disasters-in-Affghanistan-1841-2_50219
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50219-h/images/cover.jpg
 creator:
   author:
     agent_name: Sale, Florentia
     gutenberg_agent_id: '45759'
     url: http://www.gutenberg.org/2009/agents/45759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50219#A-Journal-of-the-Disasters-in-Affghanistan-1841-2
 gutenberg_issued: '2015-10-15'
 gutenberg_type: Text
 identifiers:
